@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/gkwasek/Playwright-playground.git",
   "author": "Grzegorz Kwasek",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7"
+  },
+  "scripts": {}
 }
